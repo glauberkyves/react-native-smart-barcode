@@ -25,6 +25,7 @@ public class RCTCapturePackage implements ReactPackage {
 ////        linearGradientViewManager = new RCTLinearGradientViewManager(activity);
 //    }
 
+
     public RCTCapturePackage() {
         captureManager = new RCTCaptureManager();
     }
